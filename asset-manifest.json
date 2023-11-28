@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mohitarora8181/universitiesList/static/css/main.2d1588af.css",
-    "main.js": "/mohitarora8181/universitiesList/static/js/main.34589bc7.js",
-    "index.html": "/mohitarora8181/universitiesList/index.html",
-    "main.2d1588af.css.map": "/mohitarora8181/universitiesList/static/css/main.2d1588af.css.map",
-    "main.34589bc7.js.map": "/mohitarora8181/universitiesList/static/js/main.34589bc7.js.map"
+    "main.css": "/universitiesList/static/css/main.2d1588af.css",
+    "main.js": "/universitiesList/static/js/main.34589bc7.js",
+    "index.html": "/universitiesList/index.html",
+    "main.2d1588af.css.map": "/universitiesList/static/css/main.2d1588af.css.map",
+    "main.34589bc7.js.map": "/universitiesList/static/js/main.34589bc7.js.map"
   },
   "entrypoints": [
     "static/css/main.2d1588af.css",
